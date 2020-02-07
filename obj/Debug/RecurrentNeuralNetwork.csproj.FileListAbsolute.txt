@@ -1,0 +1,6 @@
+G:\Projects\ANN\RNN\RecurrentNeuralNetwork\bin\Debug\RecurrentNeuralNetwork.exe.config
+G:\Projects\ANN\RNN\RecurrentNeuralNetwork\bin\Debug\RecurrentNeuralNetwork.exe
+G:\Projects\ANN\RNN\RecurrentNeuralNetwork\bin\Debug\RecurrentNeuralNetwork.pdb
+G:\Projects\ANN\RNN\RecurrentNeuralNetwork\obj\Debug\RecurrentNeuralNetwork.csprojAssemblyReference.cache
+G:\Projects\ANN\RNN\RecurrentNeuralNetwork\obj\Debug\RecurrentNeuralNetwork.exe
+G:\Projects\ANN\RNN\RecurrentNeuralNetwork\obj\Debug\RecurrentNeuralNetwork.pdb

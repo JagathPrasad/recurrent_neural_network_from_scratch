@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecurrentNeuralNetwork", "RecurrentNeuralNetwork.csproj", "{EC1D4848-17D9-4BC1-BFEB-AD86864F8254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1D4848-17D9-4BC1-BFEB-AD86864F8254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1D4848-17D9-4BC1-BFEB-AD86864F8254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1D4848-17D9-4BC1-BFEB-AD86864F8254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1D4848-17D9-4BC1-BFEB-AD86864F8254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED208C03-C9C6-491D-806D-1A9F322E46F5}
+	EndGlobalSection
+EndGlobal
